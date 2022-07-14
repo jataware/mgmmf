@@ -1,0 +1,10 @@
+uclasm
+data/*
+output/*
+build
+tmp.png
+*.so
+*.zip
+*.egg-info
+__pycache__
+.vscode/*
