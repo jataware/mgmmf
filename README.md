@@ -12,6 +12,8 @@ git clone --recursive https://github.com/jataware/mgmmf
 
 See `./install.sh`
 
+_Note:_ We assume you're using [Anaconda](https://www.anaconda.com/products/distribution) for environment management.
+
 ## Usage
 
 ```
