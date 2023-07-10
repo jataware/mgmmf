@@ -22,4 +22,4 @@ python example.py
 
 ## References
 
-(Multiplex Graph Matching Matched Filters)[https://arxiv.org/abs/1908.02572]
+- [Multiplex Graph Matching Matched Filters](https://arxiv.org/abs/1908.02572)
